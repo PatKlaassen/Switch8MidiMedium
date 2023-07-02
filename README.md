@@ -5,7 +5,7 @@ Basic features
 - 8 presets
 - 10 banks
 - Simple midi program change messages
-- Bank lock feuture for allowing 10 presets for dummy mode
+- Bank lock feature for allowing 10 presets for dummy mode
 - Multiple color scheme's
 - Mute feature (bank down hold)
 
